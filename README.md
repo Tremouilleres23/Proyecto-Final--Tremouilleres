@@ -20,7 +20,7 @@ Los usuarios pueden realizar las siguientes accciones:
 - Cerrar Sesión
 - Login en caso de haber cerrado sesión
 
-Nota: Para poder agregar categorias, post o imagenes se debe ingresar en http://127.0.0.1:8000/admin user:admin password:1234.
+Nota: Para poder agregar categorias, post o imagenes se debe ingresar en http://127.0.0.1:8000/admin 
 
 ## Tecnología Utilizada
 
